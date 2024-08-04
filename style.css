@@ -1,0 +1,29 @@
+.logo{
+    width: 7%;
+    height: 7%;
+}
+
+
+.adminfont{
+    font-size: 30px;
+}
+
+.colorwhite{
+    color: white;
+    font-size: 20px;
+}
+
+.secondpadding-admin{
+    padding-top: 2%;
+}
+
+/* admin logo design */
+.adminlogo{
+    width: 23%;
+    height: 23%
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
